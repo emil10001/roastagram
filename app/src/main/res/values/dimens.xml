@@ -6,5 +6,6 @@
     <dimen name="feed_image_width">320dp</dimen>
     <dimen name="feed_image_height">320dp</dimen>
     <dimen name="feed_card_width">320dp</dimen>
-    <dimen name="feed_card_height">376dp</dimen>
+    <dimen name="feed_card_height">392dp</dimen>
+    <dimen name="card_padding_vertical">4dp</dimen>
 </resources>

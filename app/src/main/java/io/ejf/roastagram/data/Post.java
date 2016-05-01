@@ -2,7 +2,6 @@ package io.ejf.roastagram.data;
 
 import android.content.Context;
 import android.net.Uri;
-import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 

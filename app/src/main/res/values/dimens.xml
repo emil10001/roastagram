@@ -3,9 +3,9 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="feed_image_width">320dp</dimen>
-    <dimen name="feed_image_height">320dp</dimen>
-    <dimen name="feed_card_width">320dp</dimen>
-    <dimen name="feed_card_height">392dp</dimen>
+    <dimen name="feed_image_width">380dp</dimen>
+    <dimen name="feed_image_height">380dp</dimen>
+    <dimen name="feed_card_width">380dp</dimen>
+    <dimen name="feed_card_height">452dp</dimen>
     <dimen name="card_padding_vertical">4dp</dimen>
 </resources>
